@@ -1,0 +1,6 @@
+framework module Pods_Parsetegram {
+  umbrella header "Pods-Parsetegram-umbrella.h"
+
+  export *
+  module * { export * }
+}
