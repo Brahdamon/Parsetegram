@@ -8,6 +8,7 @@ target 'Parsetegram' do
   # Pods for Parsetegram
    pod 'Parse'
    pod 'AlamofireImage'
+   pod 'MessageInputBar'
 
 
   target 'ParsetegramTests' do
